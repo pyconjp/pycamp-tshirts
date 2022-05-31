@@ -2,6 +2,10 @@
 
 Python Boot Campの現地スタッフ、TAのリストを作成する
 
+## 使い方
+
+* 以下のようにコマンドを実行して、スタッフ、TAの一覧を出力する
+
 ```bash
 $ python3.10 -m venv env
 $ . env/bin/activate
@@ -15,3 +19,6 @@ $ . env/bin/activate
 愛媛	https://pyconjp.connpass.com/event/34564/	npmyj	staff
 ...
 ```
+
+* 上記のリストをコピーして、「pycamp Tシャツサイズ一覧」スプレッドシートの「TA、スタッフ一覧」シートにペーストする
+* 「TA、スタッフ集計』シートを確認して、2回以上になった人がいないか確認する
