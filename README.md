@@ -30,5 +30,5 @@ $ . env/bin/activate
 
 ## Tシャツのデザイン
 
-* `2018.py`、`2019.py`: Tシャツの背面のテキスト
+* `tshirts20NN.py`: Tシャツの背面のテキスト
 * `images/`: Tシャツのイメージ
