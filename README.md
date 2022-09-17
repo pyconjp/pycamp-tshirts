@@ -1,8 +1,13 @@
-# pycamp-staff-list
+# Python Boot Camp Tシャツ
 
-Python Boot Campの現地スタッフ、TAのリストを作成する
+Python Boot CampのTシャツに関する情報を管理するリポジトリ
 
-## 使い方
+```
+$ git clone git@github.com:pyconjp/pycamp-tshirts.git
+$ cd pycamp-tshirts
+```
+
+## スタッフリストの使い方
 
 * 以下のようにコマンドを実行して、スタッフ、TAの一覧を出力する
 
@@ -22,3 +27,8 @@ $ . env/bin/activate
 
 * 上記のリストをコピーして、「pycamp Tシャツサイズ一覧」スプレッドシートの「TA、スタッフ一覧」シートにペーストする
 * 「TA、スタッフ集計』シートを確認して、2回以上になった人がいないか確認する
+
+## Tシャツのデザイン
+
+* `2018.py`、`2019.py`: Tシャツの背面のテキスト
+* `images/`: Tシャツのイメージ
