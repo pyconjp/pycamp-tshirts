@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.063178,
+          37.910552
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 新潟2nd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8053149,
+          36.3126885
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 栃木小山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8770981,
+          38.2640004
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 仙台"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8626847,
+          35.1040214
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 静岡県沼津市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4727887,
+          34.39711
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 広島2nd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2995889,
+          33.2574596
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 佐賀"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.1107492,
+          33.9634062
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 山口"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9614204,
+          32.9094745
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 長崎"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7109455,
+          32.8034093
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 熊本2nd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.407114,
+          33.5821241
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 福岡2nd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0068917,
+          36.3244922
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 群馬"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5344659,
+          33.5634255
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 高知"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.6817326,
+          26.2188987
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 沖縄"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.2522842,
+          36.1408722
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 岐阜"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2903986,
+          38.2389119
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 山形市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.223477,
+          36.0606036
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 福井"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1899622,
+          34.2301369
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 和歌山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7652952,
+          34.5999498
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 岡山"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2529566,
+          34.8473357
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 静岡県藤枝市"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5650545,
+          35.6572631
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 山梨"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7082273,
+          32.799809
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 熊本"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3632069,
+          43.0643864
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 札幌"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7688749,
+          33.8384521
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 愛媛"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7769091,
+          35.0248963
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 京都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.4691588,
+          34.4016262
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 広島"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5020542,
+          34.686358
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 大阪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1932198,
+          34.689908
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 神戸"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1823915,
+          36.6492389
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 長野"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8943548,
+          35.1691255
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 愛知"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0467571,
+          34.3526676
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 香川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.39236,
+          33.586583
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 福岡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2380211,
+          35.9107663
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 長野八ヶ岳"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.543692,
+          31.5827103
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 鹿児島"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7310398,
+          34.7036241
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 静岡"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9474989,
+          37.1484831
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 新潟南魚沼"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624809,
+          35.907703
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 埼玉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4016333,
+          35.3307236
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 神奈川"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1009872,
+          36.1102773
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 茨城"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.6545555,
+          36.571411
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 金沢"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9518463,
+          35.895061
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 柏の葉"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8917451,
+          37.0569798
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 福島"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1376519,
+          39.7997084
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 岩手"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.76191,
+          35.011116
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 京都"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.5492943,
+          34.0723532
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 徳島"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8346329,
+          38.8761266
+        ]
+      },
+      "properties": {
+        "name": "Python Boot Camp in 山形"
+      }
+    }
+  ]
+}
