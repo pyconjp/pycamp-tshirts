@@ -1,8 +1,9 @@
+"""
+Python Boot Campに2回以上貢献したスタッフの一覧表を出力する
+"""
+
 import time
-from collections import Counter, defaultdict
-from dataclasses import dataclass
-from datetime import date
-from pathlib import Path
+from collections import Counter
 from urllib import request
 
 import requests
@@ -37,8 +38,9 @@ def create_contributor_list(twice_contributors, pycamp_contributors, pycamp_even
         print(f"     * {count}")
 
         event_urls = get_event_urls(contributor, pycamp_contributors)
-        event_links = " 、 ".join(f"`{event_dict[url]} <{url}>_" for url in event_urls)
+        event_links = " 、 ".join(f"`{event_dict[url]} <{url}>`_" for url in event_urls)
         print(f"     * {event_links}")
+
 
 def get_twice_contributors(contributors: dict[str, list]):
     """
@@ -110,8 +112,6 @@ def get_staff_list(url: str):
 
 def add_event_date(pycamp_events: list[dict[str, str]]) -> list[dict[str, str]]:
     """add pycamp date to pycamp_events"""
-    events_csv = Path(PYCAMP_EVENTS_CSV)
-
     print("get event date: ", end="", flush=True)
     # add event date
     for event in pycamp_events:
@@ -204,5 +204,5 @@ def main():
     create_contributor_list(twice_contributors, pycamp_contributors, pycamp_events)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
