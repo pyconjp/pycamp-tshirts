@@ -34,11 +34,11 @@ def create_contributor_list(twice_contributors, pycamp_contributors, pycamp_even
             break
 
         name, url = contributor
-        print(f"   - * `{name} <{url}>`_")
+        print(f"   - * `{name} <{url}>`__")
         print(f"     * {count}")
 
         event_urls = get_event_urls(contributor, pycamp_contributors)
-        event_links = " 、 ".join(f"`{event_dict[url]} <{url}>`_" for url in event_urls)
+        event_links = " 、 ".join(f"`{event_dict[url]} <{url}>`__" for url in event_urls)
         print(f"     * {event_links}")
 
 
@@ -90,7 +90,11 @@ def get_staff_list(url: str):
 
     [("name1", "url1"), ("name2", "url2"), ...]
     """
-    r = requests.get(url + "participation")
+    headers = {
+        "User-Agent": "pycamp tshirts agens",
+        "From": "https://github.com/pyconjp/pycamp-tshirts/",
+    }
+    r = requests.get(url + "participation", headers=headers)
     soup = BeautifulSoup(r.text, "html.parser")
 
     staff_list = []
